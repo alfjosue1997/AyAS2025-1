@@ -1,4 +1,6 @@
-hola mundo
-adios mundo
+Cambios de desarollo
 
-como estan?
+a = "hola mundo"
+b = "adios mundo"
+
+print(a+b)
